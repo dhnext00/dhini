@@ -1,5 +1,5 @@
-# Equestrian Magazine
+dhini artikel 17 Agustus 2022
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/scottkellum/pen/yLbzjyK](https://codepen.io/scottkellum/pen/yLbzjyK).
+A Pen created on CodePen.io. Original URL: [https://dhnext00.github.io/dhini/](https://codepen.io/scottkellum/pen/yLbzjyK).
 
 
